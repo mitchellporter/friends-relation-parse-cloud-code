@@ -10,5 +10,4 @@ the currently logged in user, and the other user.
 
 **Instructions:**
 
-Simply replace *INSERT-RELATION-KEY-HERE* with the name of your relation key in Parse, and submit your new Cloud Code file
-to Parse.
+Simply replace *INSERT-RELATION-KEY-HERE* with the name of your relation key in Parse, and upload your new Cloude Code file.
