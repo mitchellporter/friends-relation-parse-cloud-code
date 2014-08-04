@@ -1,7 +1,7 @@
 friends-relation-parse-cloud-code
 =================================
 
-Parse Cloud Code file for adding a friends relationship for both users.
+This is a Parse Cloud Code file for adding a friends relationship for both users.
 
 Usually with Cloud Code, you can only make changes to the currently logged in user.
 
