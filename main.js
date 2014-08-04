@@ -1,4 +1,3 @@
-
 Parse.Cloud.define('editUser', function(request, response) {
     var userId = request.params.userId;
 
@@ -9,7 +8,6 @@ Parse.Cloud.define('editUser', function(request, response) {
         
     var relation = user.relation("friendsRelation");
     relation.add(currentUser);
-
 
     Parse.Cloud.useMasterKey();
     user.save().then(function(user) {
