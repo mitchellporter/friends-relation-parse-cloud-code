@@ -8,7 +8,7 @@ Usually with Cloud Code, you can only make changes to the currently logged in us
 However, this Parse Cloud Code file utilizes the Master Key. This allows a friends relationship to be added for both
 the currently logged in user, and the other user.
 
-Instructions:
+**Instructions:**
 
-Simply replace INSERT-RELATION-KEY-HERE with the name of your relation key in Parse, and submit your new Cloud Code file
+Simply replace *INSERT-RELATION-KEY-HERE* with the name of your relation key in Parse, and submit your new Cloud Code file
 to Parse.
