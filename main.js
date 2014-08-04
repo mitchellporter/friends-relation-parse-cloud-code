@@ -6,7 +6,7 @@ Parse.Cloud.define('editUser', function(request, response) {
         
     var currentUser = request.user;
         
-    var relation = user.relation("friendsRelation");
+    var relation = user.relation("INSERT-RELATION-KEY-HERE");
     relation.add(currentUser);
 
     Parse.Cloud.useMasterKey();
